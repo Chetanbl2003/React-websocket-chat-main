@@ -53,7 +53,7 @@ chathub/
 ```
 
 ## Screenshot
-![Image](https://github.com/user-attachments/assets/2b1bed86-43bc-4076-b330-fba1aefe15a3)
+![Image](https://github.com/user-attachments/assets/45218d6b-1f49-4ac1-9d6d-615e320388ec)
 
 ## Usage
 1. Start the server (`npm start` in the `server` folder).
